@@ -1,10 +1,10 @@
 const help = (prefix) => {
-	return `🔰 -----[ *MENU SadBotz* ]----- 🔰
+	return `🔰 -----[ *MENU BOT* ]----- 🔰
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃ *⚠️ NO SPAM! NO CALL!!! ⚠️*
 ┃      *LANGGAR AUTO BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⊱❥ OWNER : *RAMLAN*
+┃⊱❥ OWNER : *DANTA*
 ┃⊱❥ AKTIF : *08:00-22:00 WIB*
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERSION : 1.1
@@ -104,7 +104,7 @@ const help = (prefix) => {
 ┃➢ ${prefix}clearall
 ┃➢ ${prefix}clone
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⟪ POWERED BY *RAMLAN* ⟫
+┃⟪ POWERED BY *DANTA* ⟫
 ┣━━━━━━━━━━━━━━━━━━━━┓
 `
 }
