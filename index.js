@@ -31,9 +31,9 @@ const nsfw = JSON.parse(fs.readFileSync('./R4ML4N/nsfw.json'))
 const samih = JSON.parse(fs.readFileSync('./R4ML4N/simi.json'))
 const vcard = 'BEGIN:VCARD\n' // OM JANGAN DI UBAH OM
             + 'VERSION:3.0\n' // INI WEEM RAMLAN GANS
-            + 'FN:RamlanGans\n' // UBAH INI
-            + 'ORG:Owner BOT;\n' // UBAH INI
-            + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' // UBAH INI
+            + 'FN:Dantee\n' // UBAH INI
+            + 'ORG:Dantee;\n' // UBAH INI
+            + 'TEL;type=CELL;type=VOICE;waid=6285342494328:+62 853-4249-4328\n' // UBAH INI
             + 'END:VCARD' // WEEM DIHAPUS GUE BERHENTI UPDATE SCRIPT
 prefix = '!'
 blocked = []
@@ -122,8 +122,8 @@ async function starts() {
 			const content = JSON.stringify(mek.message)
 			const from = mek.key.remoteJid
 			const type = Object.keys(mek.message)[0]
-			const apiKey = 'BELI_APIKEY_NYA'
-			const vhtear = 'BELI_APIKEY_NYA'
+			const apiKey = 'xXvQeSgBagagpdgt4TyU'
+			const vhtear = 'Dantaakey'
 			const tobz = 'BotWeA'
 			const { text, extendedText, contact, location, liveLocation, image, video, sticker, document, audio, product } = MessageType
 			const time = moment.tz('Asia/Jakarta').format('DD/MM HH:mm:ss')
